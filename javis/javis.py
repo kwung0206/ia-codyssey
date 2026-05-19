@@ -11,7 +11,7 @@ import os
 from datetime import datetime
 
 
-# 녹음 파일을 저장할 폴더 이름을 상수로 정의한다.
+# 녹음 파일을 저장할 폴더 이름을 상수로 정의한다.f
 RECORD_DIR = 'records'
 
 # 녹음 샘플링 주파수를 상수로 정의한다.
